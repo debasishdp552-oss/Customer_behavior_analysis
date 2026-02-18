@@ -3,7 +3,7 @@ Data analytics project showcasing customer behavior analysis using python,sql an
 
 **Overview**
 
-# This project demonstrates an end-to-end data analytics workflow using Python, SQL, and Power BI. The goal is to analyze customer shopping behavior, extract insights, and visualize key business metrics through an interactive dashboard.
+ This project demonstrates an end-to-end data analytics workflow using Python, SQL, and Power BI. The goal is to analyze customer shopping behavior, extract insights, and visualize key business metrics through an interactive dashboard.
 
 **Dataset**
 
